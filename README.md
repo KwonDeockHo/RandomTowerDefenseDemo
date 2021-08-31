@@ -1,5 +1,7 @@
 # RandomTowerdefenseDemo
 
+<video src="https://blog.naver.com/kon9383/222490669144" >   </video>
+
 타워 디펜스 데모 기능
 
 기본 카드/타워 종류
