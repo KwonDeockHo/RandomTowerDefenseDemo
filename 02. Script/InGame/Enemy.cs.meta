@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6837e20bd17664a4291b9be93a3f0271
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - TowerMgr: {instanceID: 0}
+  - slow: {fileID: 2100000, guid: 854ff48ec0d5fa548abcc21c5608735b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

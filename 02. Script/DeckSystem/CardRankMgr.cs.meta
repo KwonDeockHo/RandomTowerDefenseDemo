@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4402a4920a85d13459a844620a9ff828
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rankHolder: {instanceID: 0}
+  - cardPrefab: {instanceID: 0}
+  - rankPrefab: {fileID: 7762203903150036386, guid: c12c0685b05c9c245b897d6a90a10233,
+      type: 3}
+  - createEffect: {fileID: 1545806602296978, guid: 9e4577abe56a95f4a91d29a0473cd30c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

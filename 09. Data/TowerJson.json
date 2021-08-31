@@ -1,0 +1,223 @@
+[{
+		"TowerId": "NOR110001",
+		"Level": 1,
+		"Hp": 0,
+		"MaxHp": 0,
+		"Name": "Normal",
+		"Damage": 5.00,
+		"BulletCnt": 1.00,
+		"Type": "Normal",
+		"Descript": "Basic Bullet",
+		"SpriteImg": "Normal",
+		"Relation": [{
+				"id": "5001",
+				"type": "Normal"
+			},
+			{
+				"id": "5002",         
+				"type": "Double"
+			},
+			{
+				"id": "5005",
+				"type": "Fire"
+			},
+			{
+				"id": "5007",
+				"type": "Slow"
+			},
+			{
+				"id": "5006",
+				"type": "explosion"
+			},
+			{
+				"id": "5003",
+				"type": "Critical"
+			}
+		]
+	},
+	{
+		"TowerId": "DOU110001",
+		"Level": 1,
+		"Hp": 0,
+		"MaxHp": 0,
+		"Name": "Double",
+		"Damage": 1.50,
+		"BulletCnt": 1.00,
+		"Type": "Double",
+		"Descript": "Double Bullet",
+		"SpriteImg": "Double",
+		"Relation": [{
+				"id": "5001",
+				"type": "Normal"
+			},
+			{
+				"id": "5002",
+				"type": "Double"
+			},
+			{
+				"id": "5005",
+				"type": "Fire"
+			},
+			{
+				"id": "5007",
+				"type": "Slow"
+			},
+			{
+				"id": "5006",
+				"type": "explosion"
+			},
+			{
+				"id": "5003",
+				"type": "Critical"
+			}
+		]
+	},
+	{
+		"TowerId": "FIR110001",
+		"Level": 1,
+		"Hp": 0,
+		"MaxHp": 0,
+		"Name": "Fire",
+		"Damage": 3.50,
+		"BulletCnt": 1.00,
+		"Type": "Fire",
+		"Descript": "Fire Bullet",
+		"SpriteImg": "Fire",
+		"Relation": [{
+				"id": "5001",
+				"type": "Normal"
+			},
+			{
+				"id": "5002",
+				"type": "Double"
+			},
+			{
+				"id": "5005",
+				"type": "Fire"
+			},
+			{
+				"id": "5007",
+				"type": "Slow"
+			},
+			{
+				"id": "5006",
+				"type": "explosion"
+			},
+			{
+				"id": "5003",
+				"type": "Critical"
+			}
+		]
+	},
+	{
+		"TowerId": "SLO110001",
+		"Level": 1,
+		"Hp": 0,
+		"MaxHp": 0,
+		"Name": "Slow",
+		"Damage": 2.50,
+		"BulletCnt": 1.00,
+		"Type": "Slow",
+		"Descript": "Slow Bullet",
+		"SpriteImg": "Slow",
+		"Relation": [{
+				"id": "5001",
+				"type": "Normal"
+			},
+			{
+				"id": "5002",
+				"type": "Double"
+			},
+			{
+				"id": "5005",
+				"type": "Fire"
+			},
+			{
+				"id": "5007",
+				"type": "Slow"
+			},
+			{
+				"id": "5006",
+				"type": "explosion"
+			},
+			{
+				"id": "5003",
+				"type": "Critical"
+			}
+		]
+	},
+	{
+		"TowerId": "EXP110001",
+		"Level": 1,
+		"Hp": 0,
+		"MaxHp": 0,
+		"Name": "Explosion",
+		"Damage": 2.00,
+		"BulletCnt": 1.00,
+		"Type": "Explosion",
+		"Descript": "Explosion Bullet",
+		"SpriteImg": "Explosion",
+		"Relation": [{
+				"id": "5001",
+				"type": "Normal"
+			},
+			{
+				"id": "5002",
+				"type": "Double"
+			},
+			{
+				"id": "5005",
+				"type": "Fire"
+			},
+			{
+				"id": "5007",
+				"type": "Slow"
+			},
+			{
+				"id": "5006",
+				"type": "explosion"
+			},
+			{
+				"id": "5003",
+				"type": "Critical"
+			}
+		]
+	},
+	{
+		"TowerId": "EXP110001",
+		"Level": 1,
+		"Hp": 0,
+		"MaxHp": 0,
+		"Name": "Critical",
+		"Damage": 2.00,
+		"BulletCnt": 1.00,
+		"Type": "Critical",
+		"Descript": "Critical Bullet",
+		"SpriteImg": "Critical",
+		"Relation": [{
+				"id": "5001",
+				"type": "Normal"
+			},
+			{
+				"id": "5002",
+				"type": "Double"
+			},
+			{
+				"id": "5005",
+				"type": "Fire"
+			},
+			{
+				"id": "5007",
+				"type": "Slow"
+			},
+			{
+				"id": "5006",
+				"type": "explosion"
+			},
+			{
+				"id": "5003",
+				"type": "Critical"
+			}
+		]
+	}
+]

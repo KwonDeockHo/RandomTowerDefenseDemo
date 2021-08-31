@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d20eff1d3097c2040bf2eca80b66c418
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - beamStart: {fileID: 181754, guid: d79b5a0c256dde94ebbdf6080a79cad7, type: 3}
+  - beamEnd: {fileID: 192790, guid: 68ba3997b8a93c94196de0177fe5e616, type: 3}
+  - beam: {fileID: 135732, guid: b996edc2bc27bdd43a8611d88ebe91a6, type: 3}
+  - lineRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
